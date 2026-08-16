@@ -115,7 +115,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   `apps/desktop/public/ds-assets/filler-bg0.jpg`
   (https://github.com/NousResearch/hermes-agent)
 - **Copyright (c) 2025 Nous Research**
-- **License:** MIT — used with the permission notice retained:
+- **License:** MIT, used with the permission notice retained:
 
 ```
 MIT License
