@@ -9,16 +9,20 @@ your notes.
 
 ![Nous Research dark mode](images/darkmode.jpg)
 
+## Disclosure
+
+This project was written with the use a Large Language Model agent. Most was
+written by the agent itself; All of it has been reviewed by human eyes.
+
 ## Features
 
 - **Light and dark modes** — light is glass-white (`#F8FAFF`) with Nous blue
   (`#0053FD`); dark is deep psyche blue (`#0E2766`) with warm cream text
   (`#FFE6CB`).
 - **Faint statue backdrop** behind notes in dark mode — the same asset the
-  Hermes desktop app renders (`ds-assets/filler-bg0.jpg`), embedded as a data
-  URL so the theme makes **no network calls** and works offline.
+  Hermes desktop app renders. (`ds-assets/filler-bg0.jpg`)
 - **Courier Prime** monospace, embedded as data URLs (no remote fonts).
-- **WCAG AA** text contrast in both modes (audited).
+- **WCAG AA** text contrast in both modes.
 - Borderless dark chrome (glass look), amber selection, clearly underlined
   blue links, and framed callouts / code blocks / embeds / tables.
 - All assets self-contained: `theme.css` + `manifest.json` only.
