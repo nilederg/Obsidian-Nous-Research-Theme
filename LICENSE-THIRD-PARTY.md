@@ -1,4 +1,12 @@
-# Third-party assets
+# License and Third-party assets
+
+The theme code, design, documentation, and screenshots in this repository
+are dedicated to the public domain under CC0 1.0 Universal. To the extent
+possible under law, the copyright holders have waived all copyright and
+related or neighboring rights to this work.
+
+Third-party assets embedded in the theme remain under their own licenses
+and are NOT covered by this dedication.
 
 This theme embeds two third-party assets. Each remains under its own
 license and is not covered by the CC0 dedication in LICENSE.
